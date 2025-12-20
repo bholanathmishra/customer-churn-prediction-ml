@@ -14,7 +14,11 @@ The dataset contains customer-level information such as:
 - Monthly bill
 - Total usage
 - Churn status (target variable)
- Note: Dataset is used for learning and demonstration purposes.
+Note: Dataset is used for educational purposes.
+
+## How to Run
+pip install -r requirement.txt
+jupyter notebook Customer Churn Prediction.ipynb
 
 
 ## Approach
